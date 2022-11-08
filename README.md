@@ -15,4 +15,3 @@ Basically it shows
    creation.
    All provide methods to read and modify their values and also 
    provides methods for displaying account objects properties.
-   Explain project execution flow with complete JVM architecture.
