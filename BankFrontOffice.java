@@ -32,7 +32,7 @@ public class BankAccount{
 
 		out.println("Reading static variables values from file and initializing them");
 		try{Thread.sleep(1000);}
-		catch(InterruptedException e){}
+		catch(InterruptedException e){}//
 
 		try{
 			/*connecting to file*/
