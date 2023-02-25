@@ -1,4 +1,4 @@
-//bankDetails.txt
+//bankDetails.txts
 SBI
 Jagannath Prasad
 SBIN0012113
