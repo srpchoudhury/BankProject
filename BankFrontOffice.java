@@ -4,7 +4,7 @@ Jagannath Prasad
 SBIN0012113
 //accNumSeq.txt
 1010
-//BankAccount.java
+//BankAccount.java file
 import static java.lang.System.out;
 
 import  java.io.BufferedReader;
